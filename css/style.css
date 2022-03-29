@@ -6,15 +6,15 @@
     line-height: 100px;
     font-size: 25px;
     color: rgb(0, 0, 0);
-    background-color: rgb(0, 38, 251);
     box-shadow: 2px 1px 15px #aaaaaa;
 }
 .red{
-    color: red;
+
+    background-color: rgb(255, 173, 173);;
 }
 .blue{
-    color: blue;
+    background-color: rgb(192, 169, 255);;
 }
 .green{
-    color: green;
+    background-color: rgb(149, 255, 149);
 }
